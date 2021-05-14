@@ -10987,6 +10987,12 @@ repositories:
       url: https://github.com/xqms/rosmon.git
       version: master
     status: maintained
+  rosnodejs:
+    doc:
+      type: git
+      url: https://github.com/RethinkRobotics-opensource/rosnodejs.git
+      version: 3.0.2
+    status: maintained   
   rospack:
     doc:
       type: git
